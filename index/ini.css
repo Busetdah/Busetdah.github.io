@@ -5,9 +5,9 @@
 }
 
 .gradient1 {
-	background: linear-gradient(-90deg, #00ffff 0%, #0000cc 150%);
-	background: -webkit-linear-gradient(#00ffff 0%, #0000cc 150%); 
-	background: -o-linear-gradient(#00ffff 0%, #0000cc 150%); 
-	background: -moz-linear-gradient(#00ffff 0%, #0000cc 150%); 
+	background: linear-gradient(to bottom right, #00ffff, #0000cc);
+	background: -webkit-linear-gradient(#00ffff, #0000cc); 
+	background: -o-linear-gradient(#00ffff, #0000cc); 
+	background: -moz-linear-gradient(#00ffff, #0000cc); 
         border-radius: 90px 90px 90px 90px;
 }
