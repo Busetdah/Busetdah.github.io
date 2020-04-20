@@ -1,0 +1,12 @@
+.kotak1 {
+	height: 40px;
+	text-align: center;
+}
+
+.gradient2 {
+	background: linear-gradient(to bottom left, #0000cc -50%, #00ffff);
+	background: -webkit-linear-gradient(to bottom left, #0000cc -50%, #00ffff); 
+	background: -o-linear-gradient(to bottom left, #0000cc -50%, #00ffff); 
+	background: -moz-linear-gradient(to bottom left, #0000cc -50%, #00ffff); 
+        border-radius: 90px 90px 90px 90px;
+}
