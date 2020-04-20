@@ -5,7 +5,7 @@
 }
 
 .gradient1 {
-	background-image: linear-gradient(to bottom right, #00ffff, #0000cc);
+	background-image: linear-gradient(#00ffff, #0000cc);
 	background-image: -webkit-linear-gradient(#00ffff, #0000cc); 
 	background-image: -o-linear-gradient(#00ffff, #0000cc); 
 	background-image: -moz-linear-gradient(#00ffff, #0000cc); 
