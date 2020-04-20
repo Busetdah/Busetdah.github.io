@@ -15,10 +15,10 @@ h1{
 
 .kotak{
 	background: blue;
-	width: 500px;
+	width: 25px;
 	float: left;
-	height: 250px;
-	margin: 30px;
+	height: 25px;
+	margin: 25px;
 }
 
 .gradient1 {
