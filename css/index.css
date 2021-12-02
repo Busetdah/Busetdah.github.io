@@ -50,13 +50,13 @@ html, body{
 }
 @media only screen and (max-width: 992px){
 	.hero-inner img{
-		height: 25vh;
-y		width: auto;
+		height: 33vh;
+		width: auto;
 	}
 }
 @media only screen and (max-width: 450px){
 	.hero-inner img{
-		height: 10vh;
+		height: 23vh;
 		width: auto;
 	}
 }
