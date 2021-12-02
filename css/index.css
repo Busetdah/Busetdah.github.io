@@ -6,8 +6,8 @@ html, body{
 }
 .preloader{
 	display: flex;
-    align-items: center;
-    justify-content: center;
+        align-items: center;
+        justify-content: center;
 	position: fixed;
 	z-index: 999;
 	height: 100%;
@@ -45,8 +45,8 @@ html, body{
 .hero-inner img{
 	margin: 10px;
 	padding: 0;
-    height: 50vh;
-    width: auto;
+        height: 50vh;
+        width: auto;
 }
 @media only screen and (max-width: 992px){
 	.hero-inner img{
